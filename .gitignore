@@ -1,0 +1,11 @@
+# Ignore everything ...
+/*
+
+# ... except for ...
+!Assets/
+!ProjectSettings/
+!Packages/
+
+# Include GitHub files
+!.gitignore
+!README.md
